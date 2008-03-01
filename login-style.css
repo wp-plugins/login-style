@@ -1,3 +1,13 @@
-#login {
-	background-image: url(login-style.png);
+#login h1 {
+	background: url(login-style.png) center top no-repeat;
+}
+
+#nav {
+	background: url(login-style.png) center bottom no-repeat;
+	padding-bottom: 48px;
+}
+
+#nav a {
+	display: block;
+	padding-bottom: 16px;
 }

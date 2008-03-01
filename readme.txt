@@ -2,7 +2,7 @@
 Contributors: jdub
 Tags: login, style, css, theme, wpmu, admin
 Requires at least: 2.1
-Tested up to: 2.3
+Tested up to: 2.5
 Stable tag: 1.0
 
 Restyle your login page with custom CSS.
